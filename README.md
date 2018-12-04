@@ -1,6 +1,4 @@
-# first_work
-
-My first website
+# My first website (fisrt_work)
 ------------------------------------------------------
 The code has comments in russian and english language.
 
